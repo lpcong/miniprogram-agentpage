@@ -99,6 +99,7 @@ const GLOBAL_LIFE_CIRCLE = {
             }
         }
     }
+    
     /**
      * 加入定制生命周期
      */
