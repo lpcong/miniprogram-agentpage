@@ -17,7 +17,6 @@ const GLOBAL_DATA = {
 };
 const GLOBAL_LIFE_CIRCLE = {
     onLoad(options) {
-
         // the `this` object is pointing to the AgentPage
         Object.defineProperties(this, {
             'set': {
